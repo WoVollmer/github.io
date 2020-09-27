@@ -1,39 +1,35 @@
-## Welcome to GitHub Pages
 
-README.md file of Corona Dashboard => to be updated
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
-You can use the [editor on GitHub](https://github.com/WoVollmer/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Corona Virus Dashboard
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The **`Corona Virus Dashboard`** provides analysis of the time series
+data provided by the **Johns Hopkins University** on GitHub. For links
+and references see the Dashboard-file *index.html*.
 
-### Markdown
+**Code Source**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See [GitHub
+repository](https://github.com/WoVollmer/R-TimesSeriesAnalysis/tree/master/Corona-Virus)
+with all replicated R sources.
 
-```markdown
-Syntax highlighted code block
+## Overview
 
-# Header 1
-## Header 2
-### Header 3
+The **Corona\_Virus\_TS\_Dashboard** provides an interactive dashboard
+with multiple pages and page navigation.
 
-- Bulleted
-- List
+The R Markdown file **`Corona_Virus_TS_Dashboard.Rmd`** creates the
+dashboard with the R package
 
-1. Numbered
-2. List
+  - [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
+    *flexdashboard: Easy interactive dashboards for R*
 
-**Bold** and _Italic_ and `Code` text
+## Dashboard Web Site
 
-[Link](url) and ![Image](src)
-```
+The [Corona Virus Dashboard](https://wovollmer.github.io/github.io/) is
+published as **GitHub page**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-----
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WoVollmer/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Any remarks?  
+Please let me know or provide some hints.
